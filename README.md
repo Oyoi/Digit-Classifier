@@ -13,6 +13,6 @@ Test image for digit 8:
 
 <a href="https://imgur.com/dnd5oOw"><img src="https://i.imgur.com/dnd5oOw.png" title="source: imgur.com" width="195" height="246"/></a>
 
-Result ofr digit 8:
+Result for digit 8:
 
 <a href="https://imgur.com/d5lrv4u"><img src="https://i.imgur.com/d5lrv4u.png" title="source: imgur.com" /></a>
